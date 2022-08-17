@@ -1,7 +1,7 @@
 <img align="center" alt="coding" src="https://camo.githubusercontent.com/48ec00ed4c84e771db4a1db90b56352923a8d644452a32b434d68e97006c9337/68747470733a2f2f63686b736b696c6c732e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032302f30342f504e432d416e696d617465642d42616e6e6572732e676966" />
 <h1 align="center">Hi 👋, I'm Gaurav Kumar</h1>
 <h3 align="left">Observant and detail-oriented aspiring full-stack developer with a specialization in MERN stack. A self-motivated, creative and detailed individual with B. Tech specialization in Electronic and Telecommunication has the capacity to develop an effective and efficient solution with a keen interest in building user-centric products. Looking forward to honing his skills in a challenging work environment.
-   <img align="center" width="880" height="350" alt="coding" src="https://raw.githubusercontent.com/AlaeddineMessadi/AlaeddineMessadi/main/web-developer-chilling.gif" />
+   <img align="center" width="850" height="350" alt="coding" src="https://raw.githubusercontent.com/AlaeddineMessadi/AlaeddineMessadi/main/web-developer-chilling.gif" />
 </h3>
 
 
