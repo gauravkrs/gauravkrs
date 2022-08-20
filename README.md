@@ -29,10 +29,10 @@
 
 <h3 align="left">GitHub Stats :</h3>
 
-![](https://github-readme-stats.vercel.app/api?username=AkshayPatil96&theme=react&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=gauravkrs&theme=react&hide_border=false&include_all_commits=true&count_private=false)<br/>
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=AkshayPatil96&theme=react&hide_border=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=gauravkrs&theme=react&hide_border=false)<br/>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AkshayPatil96&theme=react&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=gauravkrs&theme=react&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 <a href="http://www.github.com/gauravkrs"><img src="https://activity-graph.herokuapp.com/graph?username=Navedphysicist&bg_color=000000&color=ffffff&line=0891b2&point=ffffff&area_color=000000&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
