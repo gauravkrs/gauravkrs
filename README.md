@@ -29,10 +29,12 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://ko-fi.com/gauravkrs"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="60" width="250"  margin:"10px" alt="gauravkrs" /></a></p><br><br>
+<p></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=gauravkrs&show_icons=true&locale=en" alt="gauravkrs" /></p>
+
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=gauravkrs&" alt="gauravkrs" /></p>
+
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gauravkrs&show_icons=true&locale=en&layout=compact" alt="gauravkrs" /></p>
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=gauravkrs&show_icons=true&locale=en" alt="gauravkrs" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gauravkrs&" alt="gauravkrs" /></p>
 <a href="http://www.github.com/gauravkrs"><img src="https://activity-graph.herokuapp.com/graph?username=Navedphysicist&bg_color=000000&color=ffffff&line=0891b2&point=ffffff&area_color=000000&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
