@@ -10,9 +10,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gauravkrs" alt="gauravkrs" /></a> </p>
 
-- 🌱 I’m currently learning **Full stack web development **
+- 🌱 I’m currently learning **Redux, Node JS, Data Structure and Algorithm**
 
-- 💬 Ask me about **Javascript, react, html, css**
+- 💬 Ask me about **Javascript, React, HTML, CSS,Redux, Node JS, Express JS**
 
 - 📫 How to reach me **gauravkr2179@gmail.com**
 
